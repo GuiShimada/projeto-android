@@ -56,7 +56,7 @@ header p {
     font-family: 'Bebas';
     font-weight: 400;
     font-size: 1.2em;
-    margin: 20px auto;
+    padding-bottom: 20px;
     max-width: 500px;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.398);
 }
